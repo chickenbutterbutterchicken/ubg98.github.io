@@ -1,4 +1,4 @@
-# Full project: https://gitlab.com/pages/plain-html
+Title: He
 pages:
   stage: deploy
   script:
